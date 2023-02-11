@@ -14,3 +14,6 @@ Functions programmed:
 -	Brightening- increasing image intensity to desired level using HSV scale.
 
 ![gui_last](https://user-images.githubusercontent.com/62274608/218250371-36706146-7cd0-404a-947c-6abc7b16fd27.png)
+
+Example of Image Enhancement:
+![enhanced2](https://user-images.githubusercontent.com/62274608/218250411-f6b219a6-000a-489b-8b29-b4ad20a5e4a7.jpg)
