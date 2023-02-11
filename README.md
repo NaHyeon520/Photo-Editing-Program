@@ -1,7 +1,7 @@
 # Photo-Editing-Program
 SUNY Oswego-Intro to Digital Imaging Final Project
 
-Functions programmed
+Functions programmed:
 -	Shearing - Affine transformation matrix (Get parameters from user input)
 -	Scaling - Built-in function
 -	Rotating - Built-in function
@@ -12,3 +12,4 @@ Functions programmed
 -	Color Detecting - Detect the color region which the user wants to change and change the color to the user wants
 -	Image Enhancement - Enhance the quality of the color image by histogram equalization
 -	Brightening- increasing image intensity to desired level using HSV scale.
+
