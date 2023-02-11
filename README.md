@@ -13,3 +13,4 @@ Functions programmed:
 -	Image Enhancement - Enhance the quality of the color image by histogram equalization
 -	Brightening- increasing image intensity to desired level using HSV scale.
 
+![gui_last](https://user-images.githubusercontent.com/62274608/218250371-36706146-7cd0-404a-947c-6abc7b16fd27.png)
