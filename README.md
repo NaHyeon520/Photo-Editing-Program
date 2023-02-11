@@ -1,6 +1,7 @@
 # Photo-Editing-Program
 SUNY Oswego-Intro to Digital Imaging Final Project
-<Functions programmed>
+
+Functions programmed
 -	Shearing - Affine transformation matrix (Get parameters from user input)
 -	Scaling - Built-in function
 -	Rotating - Built-in function
